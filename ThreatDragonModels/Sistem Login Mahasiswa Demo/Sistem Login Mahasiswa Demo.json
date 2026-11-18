@@ -1,0 +1,31 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-11-18",
+  "summary": {
+    "title": "Sistem Login Mahasiswa Demo",
+    "owner": "Kelompok 02",
+    "description": "threat modeling sistem sebagai demo",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Naura"
+      },
+      {
+        "name": "Dila"
+      },
+      {
+        "name": "Dillah"
+      },
+      {
+        "name": "Arfan"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 2,
+    "reviewer": "Dosen SBG",
+    "threatTop": 0
+  }
+}
