@@ -23,8 +23,19 @@
         "name": "Arfan"
       }
     ],
-    "diagrams": [],
-    "diagramTop": 2,
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "DFL Login dan Profil Mahasiswa",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "DFL Login dan Profil Mahasiswa"
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "Dosen SBG",
     "threatTop": 0
   }
